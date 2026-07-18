@@ -71,4 +71,4 @@ curl -s -N -X POST http://localhost:8080/api/conversations/{会话ID}/messages \
 
 ---
 
-*图灵 整理 · 2026-07*
+*Turing · 2026-07*
